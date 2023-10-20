@@ -1,0 +1,1 @@
+Aus Aleph können mit Services Katalogdaten als XML-Datei exportiert werden. Für die Analyse der Daten ist es oft hilfreich, diese in Tabellenform (ein Katalogeintrag je Zeile) umzuwandeln. OpenRefine kann hier mit Columnize ... und join multivalued cells sehr hilfreich sein.
